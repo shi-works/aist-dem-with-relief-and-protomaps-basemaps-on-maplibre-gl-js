@@ -4,7 +4,7 @@
         "protomaps": {
             "type": "vector",
             "tiles": [
-                "pmtiles://https://xs489works.xsrv.jp/pmtiles-data/protomaps/protomaps-basemaps-japan.pmtiles/{z}/{x}/{y}"
+                "pmtiles://https://pmtiles-data.s3.ap-northeast-1.amazonaws.com/protomaps/protomaps-basemaps-japan.pmtiles/{z}/{x}/{y}"
             ],
             "attribution": "<a href=\"https://github.com/protomaps/basemaps\">Protomaps</a> © <a href=\"https://openstreetmap.org\">OpenStreetMap</a>"
         },
